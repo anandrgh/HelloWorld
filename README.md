@@ -1,2 +1,2 @@
 # HelloWorld
-Training
+Training for how to use git
